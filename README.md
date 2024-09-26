@@ -13,4 +13,8 @@ This Streamlit app compares job descriptions with a candidate's resume and evalu
 1. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
+
+2. **How to run**:
+   ```bash
    streamlit run main.py
+
