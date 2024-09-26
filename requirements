@@ -1,0 +1,12 @@
+
+---
+
+### `requirements.txt`
+
+```txt
+streamlit
+langchain_groq
+langchain_community
+chromadb
+pdfplumber
+pandas
